@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809309780739",
+    "firebase_url": "https://farmly-go-map-project.firebaseio.com",
+    "project_id": "farmly-go-map-project",
+    "storage_bucket": "farmly-go-map-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809309780739:android:5cd4a31655133b49818736",
+        "android_client_info": {
+          "package_name": "com.example.farmlygomapproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809309780739-qdjna086vrdlr2dn1of4ae6rt0g7rcmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmlygomapproject",
+            "certificate_hash": "a1cdf0799a02ea3c06dd1bc8f48145e1ee106500"
+          }
+        },
+        {
+          "client_id": "809309780739-rptgcjho9l4o3fj70t46k2asn2k35cjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPy5ZwAtnP25W0QGpdmSHZiCqm4n-pEpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809309780739-rptgcjho9l4o3fj70t46k2asn2k35cjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

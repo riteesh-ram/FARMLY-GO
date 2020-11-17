@@ -1,0 +1,2 @@
+rootProject.name='Farmly Go Map Project'
+include ':app'
